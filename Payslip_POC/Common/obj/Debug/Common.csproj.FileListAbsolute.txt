@@ -1,0 +1,6 @@
+C:\Users\mbanga\Downloads\Payslip_POC\Common\bin\Debug\Common.dll
+C:\Users\mbanga\Downloads\Payslip_POC\Common\bin\Debug\Common.pdb
+C:\Users\mbanga\Downloads\Payslip_POC\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\mbanga\Downloads\Payslip_POC\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\mbanga\Downloads\Payslip_POC\Common\obj\Debug\Common.dll
+C:\Users\mbanga\Downloads\Payslip_POC\Common\obj\Debug\Common.pdb
